@@ -1,2 +1,5 @@
-Git study
-my local library
+Git 学习
+本地库
+
+Git 是一个分布式版本控制系统。
+同时是一款免费软件。
